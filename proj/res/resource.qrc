@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>MainImage.png</file>
+        <file>images/file-exit.png</file>
+        <file>images/file-new.png</file>
+        <file>images/file-open.png</file>
+        <file>images/file-save.png</file>
+        <file>images/help-about.png</file>
+        <file>images/file-open_container_folder.png</file>
+        <file>images/options-languages.png</file>
+        <file>images/options-windows.png</file>
+        <file>images/file-save_as.png</file>
+    </qresource>
+</RCC>
